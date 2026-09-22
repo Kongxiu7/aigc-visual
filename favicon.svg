@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="季">
+  <rect width="64" height="64" rx="14" fill="#0E0D0C"/>
+  <rect x="6" y="6" width="52" height="52" rx="11" fill="none" stroke="#D9A05B" stroke-opacity=".35"/>
+  <text x="32" y="45" font-size="34" font-weight="700" fill="#D9A05B" text-anchor="middle"
+        font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">季</text>
+</svg>
